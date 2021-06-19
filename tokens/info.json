@@ -1,0 +1,10 @@
+    "name": "Codex",
+    "website": "https://www.cdx-codex.com/",
+    "description": "Codex (CDX) is a revolution gaming cryptocurrency, with a fully transparent and doxxed team and frequent zoom face to face AMAs",
+    "explorer": "https://bscscan.com/token/0x98E9ef98EbA5e4CDB96c16A09bD44efb0Ac9aB4D",
+    "type": "BEP20",
+    "symbol": "CDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98E9ef98EbA5e4CDB96c16A09bD44efb0Ac9aB4D"
+}
